@@ -1,0 +1,3 @@
+-- transaction can be used to skip the
+-- if someone with balance 100 tries to draw
+-- 200 from two places
